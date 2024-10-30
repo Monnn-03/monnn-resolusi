@@ -1,3 +1,4 @@
 Ramon Resolusi
 - Belajar Back End
-- Mengedit Video Petra News 
+- Membuat website sendiri
+- Memahami Broken Chord
